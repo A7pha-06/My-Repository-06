@@ -1,1 +1,2 @@
 this is file2.txt
+this file was written from local @git repository(*)
